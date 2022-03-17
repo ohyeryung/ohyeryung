@@ -1,4 +1,4 @@
-## HI THERE
+## HI THERE 👋
 ### 🌱 I’m currently learning back-end language.
 <div align=center>
 <h3>🛠 Tech Stack 🛠</h> 
