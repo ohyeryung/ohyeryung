@@ -28,7 +28,7 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
+<a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link="/></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyeryung&show_icons=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeryung&layout=compact&theme=tokyonight)
