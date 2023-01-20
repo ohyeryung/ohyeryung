@@ -53,7 +53,7 @@
 
   <p></p>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyno931128&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeryung&layout=compact&theme=tokyonight)
 
   
 <!---
