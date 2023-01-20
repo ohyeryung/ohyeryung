@@ -53,9 +53,7 @@
 
   <p></p>
   
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeryung&layout=compact&theme=tokyonight)--->
-  
-<!--- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohyeryung&show_icons=true&theme=radical)--->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyno931128&layout=compact&theme=tokyonight)
 
   
 <!---
