@@ -54,7 +54,6 @@
   <p></p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeryung&layout=compact&theme=tokyonight)
-
   
 <!---
 ohyeryung/ohyeryung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
