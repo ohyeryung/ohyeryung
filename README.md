@@ -46,9 +46,8 @@
 
 <a href="https://ye-ryung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link="/></a>
  
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongbinko%2Fhit-counter&count_bg=%233DC899&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyeryung&count_bg=%23CD0000&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+   
   ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ohyeryung&&show_icons=true&theme=radical)
 
   <p></p>
