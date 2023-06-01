@@ -1,12 +1,43 @@
 ## HI THERE 👋
 
+
+
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ye%20Ryung&fontSize=80)
- 
+
+<div align = left width=150 >
+  
+```Java
+@Component
+@RequiredArgsConstructor
+public class Introduction {
+
+    private final Ohyeryung yeryung;
+    
+    private BEDeveloper init() {
+        BackEnd backend = BackEnd.builder()
+                    .language(Java)
+                    .framework(Spring)
+                    .database(MySQL)
+                    .ide(Intellij)
+                    .build();
+
+        return yeryung.develop(backend);
+    }
+    
+    public void close() {
+        
+    }
+}
+
+```
+<br>
+
+<div align=center>
 
 <h3>🛠 Language Stack 🛠</h> 
-<p></p>
+<br>
 <p>
 
  <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="90" height="30"/>
@@ -18,7 +49,7 @@
 <div align=center>
   
 🛠 Tech Stack 🛠</h> 
-<p></p>
+<br>
 <p>
 
 <img src= "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100" height="30"/>
@@ -33,7 +64,7 @@
 <div align=center>
   
 🛠 Tools 🛠
-  <p></p>
+  <br>
   <p>
   <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width="110" height="30"/>
 <img src= "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="90" height="30"/>
