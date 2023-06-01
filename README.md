@@ -2,7 +2,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ye%20Ryung&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ye%20Ryung&fontSize=80)(https://github.com/ohyeryung)
 
 <div align =left>
 
