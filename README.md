@@ -10,27 +10,27 @@
   
 ```Java
   
-@Component
-@RequiredArgsConstructor
-public class Introduction {
+    @Component
+    @RequiredArgsConstructor
+    public class Introduction {
 
-    private final Ohyeryung yeryung;
-    
-    private BEDeveloper init() {
-        BackEnd backend = BackEnd.builder()
-                    .language(Java)
-                    .framework(Spring)
-                    .database(MySQL)
-                    .ide(Intellij)
-                    .build();
+        private final Ohyeryung yeryung;
 
-        return yeryung.develop(backend);
+        private BEDeveloper init() {
+            BackEnd backend = BackEnd.builder()
+                        .language(Java)
+                        .framework(Spring)
+                        .database(MySQL)
+                        .ide(Intellij)
+                        .build();
+
+            return yeryung.develop(backend);
+        }
+
+        public void close() {
+            
+        }
     }
-    
-    public void close() {
-        
-    }
-}
 
 ```
   
