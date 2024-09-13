@@ -21,6 +21,7 @@
                         .language(Java)
                         .framework(Spring)
                         .database(MySQL)
+                        .database(MariaDB)
                         .ide(Intellij)
                         .build();
 
